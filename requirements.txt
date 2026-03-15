@@ -1,0 +1,8 @@
+# Nuclear Fusion Simulation v4.0 — Dependencies
+# Install with: pip install -r requirements.txt
+
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# tkinter is built into Python — no install needed
